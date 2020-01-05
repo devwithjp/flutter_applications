@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530828188472",
+    "firebase_url": "https://persuasive-ego-236406.firebaseio.com",
+    "project_id": "persuasive-ego-236406",
+    "storage_bucket": "persuasive-ego-236406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530828188472:android:a6b69ad706436b99",
+        "android_client_info": {
+          "package_name": "com.example.pracrice_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530828188472-6632579049p7tarvdart2cjbbqc6ku87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pracrice_firebase",
+            "certificate_hash": "4a4236b91ac6b9e36fa791e278ccef345905fe7b"
+          }
+        },
+        {
+          "client_id": "530828188472-vtsjr6g8jm5d5de3k7hhem2uthqslmm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGp1__yL5KEZSXW76gQHqdp6vtatpTrG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530828188472-vtsjr6g8jm5d5de3k7hhem2uthqslmm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
